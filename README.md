@@ -24,3 +24,25 @@ equal to 5
 11. Output the array element indexes such that the array elements appear in the
 ascending order
 12.Multiply a 5x3 matrix by a 3x2 matrix (real matrix product).
+
+Assignment 2
+Write a NumPy program to convert a list of numeric values into a one-dimensional NumPy array. 
+Write a NumPy program to create a 4x4 matrix with values ranging from 7 to 15. 
+Write a NumPy program to create a null vector of size 10 and update the sixth value to 11.
+Write a NumPy program to reverse an array (first element becomes last).
+Write a NumPy program to create a 2d array with 1 on the border and 0 inside.
+Write a NumPy program to create a 8x8 matrix and fill it with a checkerboard pattern.
+
+Write a NumPy program to append values to the end of an array.
+Write a NumPy program to convert the values of Centigrade degrees into Fahrenheit degrees and vice versa. Values are stored into a NumPy array.
+Write a NumPy program to find the number of elements of an array, length of one array element in bytes and total bytes consumed by the elements.
+Write a NumPy program to test whether each element of a 1-D array is also present in a second array.
+Write a NumPy program to create an array of ones and an array of zeros.
+Write a NumPy program to create a new shape to an array without changing its data.
+Write a NumPy program to change the data type of an array.
+Write a NumPy program to create a new array of 3*5, filled with 2.
+Write a NumPy program to create a 3-D array with ones on a diagonal and zeros elsewhere
+Write a NumPy program to create a 1-D array of 20 element spaced evenly on a log scale between 2. and 5., exclusive.
+Write a NumPy program to get the number of nonzero elements in an array.
+Write a NumPy program (using NumPy) to sum of all the multiples of 3 
+or 5 below 100
