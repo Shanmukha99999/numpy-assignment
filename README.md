@@ -26,17 +26,19 @@ ascending order
 12.Multiply a 5x3 matrix by a 3x2 matrix (real matrix product).
 
 Assignment 2
-Write a NumPy program to convert a list of numeric values into a one-dimensional NumPy array. 
-Write a NumPy program to create a 4x4 matrix with values ranging from 7 to 15. 
-Write a NumPy program to create a null vector of size 10 and update the sixth value to 11.
-Write a NumPy program to reverse an array (first element becomes last).
-Write a NumPy program to create a 2d array with 1 on the border and 0 inside.
-Write a NumPy program to create a 8x8 matrix and fill it with a checkerboard pattern.
 
-Write a NumPy program to append values to the end of an array.
-Write a NumPy program to convert the values of Centigrade degrees into Fahrenheit degrees and vice versa. Values are stored into a NumPy array.
-Write a NumPy program to find the number of elements of an array, length of one array element in bytes and total bytes consumed by the elements.
-Write a NumPy program to test whether each element of a 1-D array is also present in a second array.
+
+1.Write a NumPy program to convert a list of numeric values into a one-dimensional NumPy array. 
+2.Write a NumPy program to create a 4x4 matrix with values ranging from 7 to 15. 
+3.Write a NumPy program to create a null vector of size 10 and update the sixth value to 11.
+4.Write a NumPy program to reverse an array (first element becomes last).
+5.Write a NumPy program to create a 2d array with 1 on the border and 0 inside.
+6.Write a NumPy program to create a 8x8 matrix and fill it with a checkerboard pattern.
+
+7.Write a NumPy program to append values to the end of an array.
+8.Write a NumPy program to convert the values of Centigrade degrees into Fahrenheit degrees and vice versa. Values are stored into a NumPy array.
+9.Write a NumPy program to find the number of elements of an array, length of one array element in bytes and total bytes consumed by the elements.
+10.Write a NumPy program to test whether each element of a 1-D array is also present in a second array.
 Write a NumPy program to create an array of ones and an array of zeros.
 Write a NumPy program to create a new shape to an array without changing its data.
 Write a NumPy program to change the data type of an array.
